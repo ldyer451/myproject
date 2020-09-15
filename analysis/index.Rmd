@@ -12,5 +12,6 @@ Welcome to my research website.
 * [Teeth growth analysis](teeth.html)
   Welcome to my first workflowr website! This analyzes relationships between tooth length and supplements.
   
-*To see some other cool websites, check out the link! [Renée Fonseca](https://reneemf.github.io/BootcampProject/)
+*To see some other cool websites, check out the link below! 
+[Renée Fonseca](https://reneemf.github.io/BootcampProject/)
 
